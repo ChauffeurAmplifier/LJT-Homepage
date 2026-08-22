@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio - PhD Candidate at HKUST NLP Group"
+description              : &description "Junteng Liu - PhD Candidate at HKUST NLP Group. Research: LLM Reasoning, Reinforcement Learning, Hallucination in VLMs, LLM Truthfulness."
 url                      : https://ChauffeurAmplifier.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "ChauffeurAmplifier/LJT-Homepage"
@@ -15,7 +15,7 @@ author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research interests: LLM Reasoning, RL, Hallucination in VLMs, LLM Truthfulness."
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research interests: LLM Reasoning, Reinforcement Learning, Hallucination in VLMs, LLM Truthfulness and Interpretability."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
   uri              :
