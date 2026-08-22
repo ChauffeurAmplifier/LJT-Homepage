@@ -4,11 +4,13 @@ layout: home
 author_profile: true
 ---
 
-Welcome to my homepage! I am a first-year Ph.D. candidate at HKUST NLP Group, supervised by Professor Junxian He.
+# About Me
+
+Welcome to my homepage! I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
-My research focuses on natural language processing and machine learning, with specific interests in:
+My research interests include:
 
 - **LLM Reasoning and Reinforcement Learning**
 - **Hallucination in Vision-Language Models (VLM)**
@@ -16,22 +18,74 @@ My research focuses on natural language processing and machine learning, with sp
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024-Present) - Hong Kong University of Science and Technology
-- **B.Eng.** (2020-2024) - Shanghai Jiao Tong University
+- **Ph.D. in Computer Science** (2024-Present)  
+  Hong Kong University of Science and Technology  
+  *Advisor: Professor Junxian He*
+
+- **B.Eng.** (2020-2024)  
+  Shanghai Jiao Tong University  
+  *Graduated with Zhiyuan Honor Scholarship*
 
 ## Research Experience
 
 - **Research Intern** at MINIMAX (February 2025 - Present)
-- **Research Intern** at Tencent WXG (June 2024 - September 2024)
-- **Research Intern** at Shanghai AI Lab (June 2023 - December 2023)
+- **Research Intern** at Tencent WXG (June 2024 - September 2024)  
+  *Advisor: Zifei Shan*
+- **Research Intern** at Shanghai AI Lab (June 2023 - December 2023)  
+  *Advisor: Prof. Yu Cheng*
+
+## Publications
+
+### 2025
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
+  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
+  *Arxiv, 2025*  
+  [[Paper](https://arxiv.org/abs/2505.12345)] [[Code](https://github.com/Vicent0205/SynLogic)]
+
+- **On the Perception Bottleneck of VLMs for Chart Understanding**  
+  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
+  *Arxiv, 2025*  
+  [[Paper](https://arxiv.org/abs/2503.67890)] [[Code](https://github.com/Vicent0205/Vision4Chart)]
+
+### 2024
+
+- **On the Universal Truthfulness Hyperplane Inside LLMs**  
+  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
+  *EMNLP 2024*  
+  [[Paper](https://arxiv.org/abs/2404.12345)] [[Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)]
+
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
+  Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
+  *ICML 2024*  
+  [[Paper](https://arxiv.org/abs/2402.56789)]
+
+### 2023
+
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
+  *NeurIPS 2023*  
+  [[Paper](https://arxiv.org/abs/2305.12345)]
+
+- **Composing Parameter-Efficient Modules with Arithmetic Operations**  
+  Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He  
+  *NeurIPS 2023*  
+  [[Paper](https://arxiv.org/abs/2306.78901)]
+
+## Skills
+
+- **Programming Languages**: Python, C++, JavaScript
+- **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers
+- **Tools & Platforms**: Git, Docker, Linux, AWS
+- **Research Areas**: Natural Language Processing, Large Language Models, Vision-Language Models, Reinforcement Learning
 
 ## Awards
 
-- Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University (2024)
 
 ## Contact
 
-- Email: jliugi@connect.ust.hk
-- GitHub: [Vicent0205](https://github.com/Vicent0205)
-- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
