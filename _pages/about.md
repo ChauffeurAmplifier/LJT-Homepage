@@ -72,13 +72,6 @@ My research interests include:
   *NeurIPS 2023*  
   [[Paper](https://arxiv.org/abs/2306.78901)]
 
-## Skills
-
-- **Programming Languages**: Python, C++, JavaScript
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers
-- **Tools & Platforms**: Git, Docker, Linux, AWS
-- **Research Areas**: Natural Language Processing, Large Language Models, Vision-Language Models, Reinforcement Learning
-
 ## Awards
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University (2024)
