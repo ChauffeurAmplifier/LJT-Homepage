@@ -6,8 +6,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio - PhD Candidate at HKUST NLP Group"
 url                      : https://ChauffeurAmplifier.github.io
-baseurl                  : ""
-repository               : "ChauffeurAmplifier/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "ChauffeurAmplifier/LJT-Homepage"
 
 # Site Author
 author:
