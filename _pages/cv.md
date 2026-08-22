@@ -33,13 +33,6 @@ Research Experience
   * Advisor: Prof. Yu Cheng
   * Research focus: Natural Language Processing
 
-Skills
-======
-* Programming Languages: Python, C++, JavaScript
-* Machine Learning Frameworks: PyTorch, TensorFlow, Hugging Face Transformers
-* Tools & Platforms: Git, Docker, Linux, AWS
-* Research Areas: Natural Language Processing, Large Language Models, Vision-Language Models, Reinforcement Learning
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
